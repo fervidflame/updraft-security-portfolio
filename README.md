@@ -1,6 +1,6 @@
 # 💼 Updraft-Security-Portfolio 
 
-This repository contains a collection of smart contract audit reports conducted as part of the Smart Contract Security program by [Cyfrin](https://www.cyfrin.io/). Each report reflects a structured and methodical approach to identifying vulnerabilities, assessing risk, and enhancing the security of decentralized applications. This portfolio serves as a record of my technical development and professional training in smart contract auditing.
+This repository contains a collection of smart contract audit reports conducted as part of the Smart Contract Security program by [Cyfrin](https://www.cyfrin.io/). Each report reflects a structured and methodical approach to identifying vulnerabilities, assessing risk, and enhancing the security of decentralized applications. This portfolio serves as a record of my technical development and professional training in smart contract security.
 
 ## 📓 Audit Report Composition 
 
